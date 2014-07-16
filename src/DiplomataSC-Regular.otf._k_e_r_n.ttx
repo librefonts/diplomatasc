@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <kern>
+    <version value="0"/>
+    <kernsubtable coverage="1" format="0">
+      <pair l="A" r="U" v="-70"/>
+      <pair l="A" r="V" v="-170"/>
+      <pair l="A" r="quotedbl" v="-200"/>
+      <pair l="A" r="v" v="-150"/>
+      <pair l="F" r="A" v="-90"/>
+      <pair l="F" r="AE" v="-90"/>
+      <pair l="F" r="a" v="-90"/>
+      <pair l="K" r="c" v="-60"/>
+      <pair l="L" r="C" v="40"/>
+      <pair l="L" r="c" v="40"/>
+      <pair l="P" r="A" v="-70"/>
+      <pair l="P" r="AE" v="-70"/>
+      <pair l="P" r="a" v="-80"/>
+      <pair l="U" r="A" v="-60"/>
+      <pair l="V" r="A" v="-100"/>
+      <pair l="V" r="AE" v="-100"/>
+      <pair l="V" r="c" v="-60"/>
+      <pair l="V" r="comma" v="-140"/>
+      <pair l="X" r="c" v="-80"/>
+      <pair l="a" r="v" v="-100"/>
+      <pair l="one" r="zero" v="-40"/>
+      <pair l="quotedbl" r="A" v="-140"/>
+      <pair l="seven" r="five" v="-110"/>
+      <pair l="seven" r="four" v="-180"/>
+      <pair l="u" r="a" v="-27"/>
+      <pair l="v" r="a" v="-50"/>
+      <pair l="v" r="comma" v="-140"/>
+      <pair l="zero" r="zero" v="70"/>
+    </kernsubtable>
+  </kern>
+
+</ttFont>
