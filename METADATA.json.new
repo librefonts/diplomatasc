@@ -1,0 +1,32 @@
+{
+  "name": "Diplomata SC",
+  "designer": "Eduardo Tunni",
+  "license": "OFL",
+  "visibility": "External",
+  "category": "Display",
+  "size": 21409,
+  "fonts": [
+    {
+      "name": "Diplomata SC",
+      "style": "normal",
+      "weight": 400,
+      "filename": "DiplomataSC-Regular-TTF.ttf",
+      "postScriptName": "DiplomataSC-Regular",
+      "fullName": "Diplomata SC",
+      "copyright": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Diplomata\""
+    },
+    {
+      "name": "Diplomata SC",
+      "style": "normal",
+      "weight": 400,
+      "filename": "DiplomataSC-Regular.ttf",
+      "postScriptName": "DiplomataSC-Regular",
+      "fullName": "Diplomata SC",
+      "copyright": "Copyright (c) 2011, Eduardo Tunni (http://www.tipo.net.ar), with Reserved Font Name \"Diplomata\""
+    }
+  ],
+  "subsets": [
+    "latin"
+  ],
+  "dateAdded": "2012-01-25"
+}
